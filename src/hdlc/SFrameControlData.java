@@ -3,7 +3,7 @@ package hdlc;
 import com.sun.javaws.exceptions.InvalidArgumentException;
 
 /**
- * Created by j on 3/8/16.
+ * Control data for an S-Frame
  */
 public class SFrameControlData implements ControlDataInterface {
 

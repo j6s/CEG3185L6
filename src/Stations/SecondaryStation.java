@@ -88,7 +88,7 @@ public class SecondaryStation {
 					
 					// recv ??RR,*,P?? msg
 					if(response.substring(0,5).equals("10001")) {
-						nr = HdlcFrame.extractSequenceNumber(responseLine, nr);
+						//nr = HdlcFrame.extractSequenceNumber(responseLine, nr);
 
 						// enter data msg using keyboard 
 						System.out.println("Is there any message to send? (y/n)");

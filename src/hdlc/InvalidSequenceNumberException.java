@@ -1,7 +1,8 @@
 package hdlc;
 
 /**
- * Created by j on 3/8/16.
+ * Invalid SequenceNumber Exception:
+ * Thrown, when a sequence number is out of range
  */
 public class InvalidSequenceNumberException extends Exception {
 

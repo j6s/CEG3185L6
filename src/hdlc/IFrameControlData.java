@@ -1,7 +1,7 @@
 package hdlc;
 
 /**
- * Created by j on 3/8/16.
+ * Control data for I-Frames
  */
 public class IFrameControlData implements ControlDataInterface {
 

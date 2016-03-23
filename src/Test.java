@@ -1,11 +1,9 @@
-
-
 import util.StringUtil;
-
 import java.io.IOException;
 
 /**
- * Created by j on 3/8/16.
+ * Simple Testing class to test the String en- and decoder.
+ * The german umlauts are examples of special characters.
  */
 public class Test {
 
